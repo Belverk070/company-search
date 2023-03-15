@@ -1,5 +1,9 @@
 # company-search
 
+Application is allows to find information about Companies using their TIN.<br>
+To use the application you need to get an API key from [Dadata](https://dadata.ru) and add it to component CompanySearch data token.<br>
+API Key is free.
+
 ## Project setup
 ```
 npm install
